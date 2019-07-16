@@ -1,5 +1,5 @@
 let isRecaptchaFrame = () => {
-  return /https:\/\/www.google.com\/recaptcha\/api2\/anchor/.test(window.location.href);
+  return /https:\/\/https://patrickhlauke.github.io/recaptcha/\/recaptcha\/api2\/anchor/.test(window.location.href);
 };
 
 let captchaInterval = setInterval(() => {
